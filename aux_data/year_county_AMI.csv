@@ -1,0 +1,357 @@
+year,County_Name,80%_AMI,120%_AMI
+2010,Alameda County,72240.0,108360.0
+2010,Butte County,43040.0,64560.0
+2010,Contra Costa County,72240.0,108360.0
+2010,El Dorado County,58480.0,87720.0
+2010,Fresno County,41760.0,62640.0
+2010,Humboldt County,42560.0,63840.0
+2010,Imperial County,36160.0,54240.0
+2010,Kern County,41520.0,62280.0
+2010,Kings County,42320.0,63480.0
+2010,Los Angeles County,50400.0,75600.0
+2010,Marin County,79520.0,119280.0
+2010,Merced County,39760.0,59640.0
+2010,Monterey County,52880.0,79320.0
+2010,Multiple County,45680.0,68520.0
+2010,Napa County,65440.0,98160.0
+2010,Orange County,69760.0,104640.0
+2010,Placer County,58480.0,87720.0
+2010,Riverside County,52000.0,78000.0
+2010,Sacramento County,58480.0,87720.0
+2010,San Bernardino County,52000.0,78000.0
+2010,San Diego County,60400.0,90600.0
+2010,San Francisco County,79520.0,119280.0
+2010,San Joaquin County,50480.0,75720.0
+2010,San Luis Obispo County,58000.0,87000.0
+2010,San Mateo County,79520.0,119280.0
+2010,Santa Barbara County,57120.0,85680.0
+2010,Santa Clara County,82800.0,124200.0
+2010,Santa Cruz County,67360.0,101040.0
+2010,Solano County,63360.0,95040.0
+2010,Sonoma County,64320.0,96480.0
+2010,Stanislaus County,47600.0,71400.0
+2010,Tulare County,38560.0,57840.0
+2010,Ventura County,69360.0,104040.0
+2010,Yolo County,58000.0,87000.0
+2011,Alameda County,73840.0,110760.0
+2011,Butte County,46320.0,69480.0
+2011,Contra Costa County,73840.0,110760.0
+2011,El Dorado County,60080.0,90120.0
+2011,Fresno County,43760.0,65640.0
+2011,Humboldt County,43920.0,65880.0
+2011,Imperial County,35520.0,53280.0
+2011,Kern County,42640.0,63960.0
+2011,Kings County,42880.0,64320.0
+2011,Los Angeles County,51200.0,76800.0
+2011,Marin County,81280.0,121920.0
+2011,Merced County,40400.0,60600.0
+2011,Monterey County,54240.0,81360.0
+2011,Multiple County,46880.0,70320.0
+2011,Napa County,68000.0,102000.0
+2011,Orange County,67360.0,101040.0
+2011,Placer County,60080.0,90120.0
+2011,Riverside County,50000.0,75000.0
+2011,Sacramento County,60080.0,90120.0
+2011,San Bernardino County,50000.0,75000.0
+2011,San Diego County,59920.0,89880.0
+2011,San Francisco County,81280.0,121920.0
+2011,San Joaquin County,52320.0,78480.0
+2011,San Luis Obispo County,59520.0,89280.0
+2011,San Mateo County,81280.0,121920.0
+2011,Santa Barbara County,57840.0,86760.0
+2011,Santa Clara County,82880.0,124320.0
+2011,Santa Cruz County,68640.0,102960.0
+2011,Solano County,65200.0,97800.0
+2011,Sonoma County,65200.0,97800.0
+2011,Stanislaus County,48880.0,73320.0
+2011,Tulare County,39040.0,58560.0
+2011,Ventura County,70480.0,105720.0
+2011,Yolo County,60640.0,90960.0
+2012,Alameda County,74800.0,112200.0
+2012,Butte County,46960.0,70440.0
+2012,Contra Costa County,74800.0,112200.0
+2012,El Dorado County,60880.0,91320.0
+2012,Fresno County,44400.0,66600.0
+2012,Humboldt County,44480.0,66720.0
+2012,Imperial County,36000.0,54000.0
+2012,Kern County,43280.0,64920.0
+2012,Kings County,43440.0,65160.0
+2012,Los Angeles County,51840.0,77760.0
+2012,Madera County,43680.0,65520.0
+2012,Marin County,82400.0,123600.0
+2012,Merced County,40960.0,61440.0
+2012,Monterey County,54960.0,82440.0
+2012,Multiple County,47520.0,71280.0
+2012,Napa County,68880.0,103320.0
+2012,Orange County,68240.0,102360.0
+2012,Placer County,60880.0,91320.0
+2012,Riverside County,50640.0,75960.0
+2012,Sacramento County,60880.0,91320.0
+2012,San Bernardino County,50640.0,75960.0
+2012,San Diego County,60720.0,91080.0
+2012,San Francisco County,82400.0,123600.0
+2012,San Joaquin County,53040.0,79560.0
+2012,San Luis Obispo County,60320.0,90480.0
+2012,San Mateo County,82400.0,123600.0
+2012,Santa Barbara County,58640.0,87960.0
+2012,Santa Clara County,84000.0,126000.0
+2012,Santa Cruz County,69600.0,104400.0
+2012,Shasta County,47200.0,70800.0
+2012,Solano County,66080.0,99120.0
+2012,Sonoma County,66080.0,99120.0
+2012,Stanislaus County,49600.0,74400.0
+2012,Tulare County,39600.0,59400.0
+2012,Ventura County,71440.0,107160.0
+2012,Yolo County,61520.0,92280.0
+2013,Alameda County,71360.0,107040.0
+2013,Butte County,44560.0,66840.0
+2013,Contra Costa County,71360.0,107040.0
+2013,El Dorado County,56720.0,85080.0
+2013,Fresno County,43680.0,65520.0
+2013,Humboldt County,43520.0,65280.0
+2013,Imperial County,38400.0,57600.0
+2013,Kern County,42000.0,63000.0
+2013,Kings County,40320.0,60480.0
+2013,Los Angeles County,49520.0,74280.0
+2013,Madera County,43600.0,65400.0
+2013,Marin County,80960.0,121440.0
+2013,Merced County,40160.0,60240.0
+2013,Monterey County,50480.0,75720.0
+2013,Multiple County,46080.0,69120.0
+2013,Napa County,64480.0,96720.0
+2013,Orange County,67280.0,100920.0
+2013,Placer County,56720.0,85080.0
+2013,Riverside County,50080.0,75120.0
+2013,Sacramento County,56720.0,85080.0
+2013,San Bernardino County,50080.0,75120.0
+2013,San Diego County,57840.0,86760.0
+2013,San Francisco County,80960.0,121440.0
+2013,San Joaquin County,46880.0,70320.0
+2013,San Luis Obispo County,56720.0,85080.0
+2013,San Mateo County,80960.0,121440.0
+2013,Santa Barbara County,56800.0,85200.0
+2013,Santa Clara County,81040.0,121560.0
+2013,Santa Cruz County,59040.0,88560.0
+2013,Shasta County,43520.0,65280.0
+2013,Solano County,63040.0,94560.0
+2013,Sonoma County,59920.0,89880.0
+2013,Stanislaus County,45280.0,67920.0
+2013,Tulare County,38800.0,58200.0
+2013,Ventura County,69360.0,104040.0
+2013,Yolo County,60000.0,90000.0
+2014,Alameda County,70800.0,106200.0
+2014,Butte County,43200.0,64800.0
+2014,Contra Costa County,70800.0,106200.0
+2014,El Dorado County,54400.0,81600.0
+2014,Fresno County,38960.0,58440.0
+2014,Humboldt County,41680.0,62520.0
+2014,Imperial County,34400.0,51600.0
+2014,Kern County,41360.0,62040.0
+2014,Kings County,42960.0,64440.0
+2014,Los Angeles County,48480.0,72720.0
+2014,Madera County,41600.0,62400.0
+2014,Marin County,77680.0,116520.0
+2014,Merced County,36000.0,54000.0
+2014,Monterey County,47280.0,70920.0
+2014,Multiple County,45840.0,68760.0
+2014,Napa County,56240.0,84360.0
+2014,Orange County,67920.0,101880.0
+2014,Placer County,54400.0,81600.0
+2014,Riverside County,48560.0,72840.0
+2014,Sacramento County,54400.0,81600.0
+2014,San Bernardino County,48560.0,72840.0
+2014,San Diego County,58160.0,87240.0
+2014,San Francisco County,77680.0,116520.0
+2014,San Joaquin County,46560.0,69840.0
+2014,San Luis Obispo County,61600.0,92400.0
+2014,San Mateo County,77680.0,116520.0
+2014,Santa Barbara County,58240.0,87360.0
+2014,Santa Clara County,81520.0,122280.0
+2014,Santa Cruz County,62320.0,93480.0
+2014,Shasta County,41200.0,61800.0
+2014,Solano County,61360.0,92040.0
+2014,Sonoma County,61520.0,92280.0
+2014,Stanislaus County,42160.0,63240.0
+2014,Tulare County,36080.0,54120.0
+2014,Ventura County,70960.0,106440.0
+2014,Yolo County,59120.0,88680.0
+2015,Alameda County,74320.0,111480.0
+2015,Butte County,43120.0,64680.0
+2015,Contra Costa County,74320.0,111480.0
+2015,El Dorado County,57200.0,85800.0
+2015,Fresno County,38080.0,57120.0
+2015,Humboldt County,44960.0,67440.0
+2015,Imperial County,35600.0,53400.0
+2015,Kern County,41600.0,62400.0
+2015,Kings County,40000.0,60000.0
+2015,Los Angeles County,50400.0,75600.0
+2015,Madera County,36640.0,54960.0
+2015,Marin County,81520.0,122280.0
+2015,Merced County,42000.0,63000.0
+2015,Monterey County,52000.0,78000.0
+2015,Multiple County,47120.0,70680.0
+2015,Napa County,67360.0,101040.0
+2015,Orange County,68720.0,103080.0
+2015,Placer County,57200.0,85800.0
+2015,Riverside County,48400.0,72600.0
+2015,Sacramento County,57200.0,85800.0
+2015,San Bernardino County,48400.0,72600.0
+2015,San Diego County,58400.0,87600.0
+2015,San Francisco County,81520.0,122280.0
+2015,San Joaquin County,47680.0,71520.0
+2015,San Luis Obispo County,61680.0,92520.0
+2015,San Mateo County,81520.0,122280.0
+2015,Santa Barbara County,60320.0,90480.0
+2015,Santa Clara County,85040.0,127560.0
+2015,Santa Cruz County,69600.0,104400.0
+2015,Shasta County,45040.0,67560.0
+2015,Solano County,59600.0,89400.0
+2015,Sonoma County,58880.0,88320.0
+2015,Stanislaus County,42640.0,63960.0
+2015,Tulare County,35200.0,52800.0
+2015,Ventura County,68240.0,102360.0
+2015,Yolo County,57760.0,86640.0
+2016,Alameda County,74880.0,112320.0
+2016,Butte County,45680.0,68520.0
+2016,Contra Costa County,74880.0,112320.0
+2016,El Dorado County,55520.0,83280.0
+2016,Fresno County,39600.0,59400.0
+2016,Humboldt County,41200.0,61800.0
+2016,Imperial County,38720.0,58080.0
+2016,Kern County,42640.0,63960.0
+2016,Kings County,38000.0,57000.0
+2016,Los Angeles County,49920.0,74880.0
+2016,Madera County,37520.0,56280.0
+2016,Marin County,86160.0,129240.0
+2016,Merced County,35680.0,53520.0
+2016,Monterey County,50800.0,76200.0
+2016,Multiple County,45280.0,67920.0
+2016,Napa County,66000.0,99000.0
+2016,Orange County,68000.0,102000.0
+2016,Placer County,55520.0,83280.0
+2016,Riverside County,49120.0,73680.0
+2016,Sacramento County,55520.0,83280.0
+2016,San Bernardino County,49120.0,73680.0
+2016,San Diego County,58800.0,88200.0
+2016,San Francisco County,86160.0,129240.0
+2016,San Joaquin County,46880.0,70320.0
+2016,San Luis Obispo County,61120.0,91680.0
+2016,San Mateo County,86160.0,129240.0
+2016,Santa Barbara County,61680.0,92520.0
+2016,Santa Clara County,85680.0,128520.0
+2016,Santa Cruz County,68080.0,102120.0
+2016,Shasta County,40720.0,61080.0
+2016,Solano County,62080.0,93120.0
+2016,Sonoma County,60720.0,91080.0
+2016,Stanislaus County,45440.0,68160.0
+2016,Tulare County,33440.0,50160.0
+2016,Ventura County,70640.0,105960.0
+2016,Yolo County,59280.0,88920.0
+2017,Alameda County,77920.0,116880.0
+2017,Butte County,50080.0,75120.0
+2017,Contra Costa County,77920.0,116880.0
+2017,El Dorado County,60160.0,90240.0
+2017,Fresno County,40000.0,60000.0
+2017,Humboldt County,43600.0,65400.0
+2017,Imperial County,39760.0,59640.0
+2017,Kern County,42400.0,63600.0
+2017,Kings County,40160.0,60240.0
+2017,Los Angeles County,51440.0,77160.0
+2017,Madera County,41040.0,61560.0
+2017,Marin County,92240.0,138360.0
+2017,Merced County,38800.0,58200.0
+2017,Monterey County,50480.0,75720.0
+2017,Multiple County,47600.0,71400.0
+2017,Napa County,72800.0,109200.0
+2017,Orange County,70400.0,105600.0
+2017,Placer County,60160.0,90240.0
+2017,Riverside County,50560.0,75840.0
+2017,Sacramento County,60160.0,90240.0
+2017,San Bernardino County,50560.0,75840.0
+2017,San Diego County,63440.0,95160.0
+2017,San Francisco County,92240.0,138360.0
+2017,San Joaquin County,48880.0,73320.0
+2017,San Luis Obispo County,66560.0,99840.0
+2017,San Mateo County,92240.0,138360.0
+2017,Santa Barbara County,59120.0,88680.0
+2017,Santa Clara County,90640.0,135960.0
+2017,Santa Cruz County,66640.0,99960.0
+2017,Shasta County,49440.0,74160.0
+2017,Solano County,64320.0,96480.0
+2017,Sonoma County,67120.0,100680.0
+2017,Stanislaus County,46000.0,69000.0
+2017,Tulare County,37840.0,56760.0
+2017,Ventura County,68480.0,102720.0
+2017,Yolo County,59760.0,89640.0
+2018,Alameda County,83520.0,125280.0
+2018,Butte County,48400.0,72600.0
+2018,Contra Costa County,83520.0,125280.0
+2018,El Dorado County,64080.0,96120.0
+2018,Fresno County,44400.0,66600.0
+2018,Humboldt County,43760.0,65640.0
+2018,Imperial County,38560.0,57840.0
+2018,Kern County,46960.0,70440.0
+2018,Kings County,44320.0,66480.0
+2018,Los Angeles County,55440.0,83160.0
+2018,Madera County,44160.0,66240.0
+2018,Marin County,94720.0,142080.0
+2018,Merced County,38560.0,57840.0
+2018,Monterey County,55280.0,82920.0
+2018,Multiple County,50560.0,75840.0
+2018,Napa County,70800.0,106200.0
+2018,Orange County,74160.0,111240.0
+2018,Placer County,64080.0,96120.0
+2018,Riverside County,52640.0,78960.0
+2018,Sacramento County,64080.0,96120.0
+2018,San Bernardino County,52640.0,78960.0
+2018,San Diego County,65440.0,98160.0
+2018,San Francisco County,94720.0,142080.0
+2018,San Joaquin County,50960.0,76440.0
+2018,San Luis Obispo County,64480.0,96720.0
+2018,San Mateo County,94720.0,142080.0
+2018,Santa Barbara County,63680.0,95520.0
+2018,Santa Clara County,100160.0,150240.0
+2018,Santa Cruz County,65120.0,97680.0
+2018,Shasta County,49120.0,73680.0
+2018,Solano County,66960.0,100440.0
+2018,Sonoma County,67280.0,100920.0
+2018,Stanislaus County,48560.0,72840.0
+2018,Tulare County,39360.0,59040.0
+2018,Ventura County,76800.0,115200.0
+2018,Yolo County,68080.0,102120.0
+2019,Alameda County,89360.0,134040.0
+2019,Butte County,53200.0,79800.0
+2019,Contra Costa County,89360.0,134040.0
+2019,El Dorado County,66880.0,100320.0
+2019,Fresno County,45840.0,68760.0
+2019,Humboldt County,49120.0,73680.0
+2019,Imperial County,48560.0,72840.0
+2019,Kern County,46320.0,69480.0
+2019,Kings County,46480.0,69720.0
+2019,Los Angeles County,58480.0,87720.0
+2019,Madera County,47280.0,70920.0
+2019,Marin County,109440.0,164160.0
+2019,Merced County,44400.0,66600.0
+2019,Monterey County,59280.0,88920.0
+2019,Multiple County,50880.0,76320.0
+2019,Napa County,80320.0,120480.0
+2019,Orange County,78320.0,117480.0
+2019,Placer County,66880.0,100320.0
+2019,Riverside County,55760.0,83640.0
+2019,Sacramento County,66880.0,100320.0
+2019,San Bernardino County,55760.0,83640.0
+2019,San Diego County,69040.0,103560.0
+2019,San Francisco County,109440.0,164160.0
+2019,San Joaquin County,57120.0,85680.0
+2019,San Luis Obispo County,70000.0,105000.0
+2019,San Mateo County,109440.0,164160.0
+2019,Santa Barbara County,63440.0,95160.0
+2019,Santa Clara County,105120.0,157680.0
+2019,Santa Cruz County,78400.0,117600.0
+2019,Shasta County,49520.0,74280.0
+2019,Solano County,68560.0,102840.0
+2019,Sonoma County,74640.0,111960.0
+2019,Stanislaus County,51600.0,77400.0
+2019,Tulare County,40720.0,61080.0
+2019,Ventura County,78240.0,117360.0
+2019,Yolo County,70320.0,105480.0

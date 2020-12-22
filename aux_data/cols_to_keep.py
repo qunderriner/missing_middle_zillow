@@ -1,7 +1,6 @@
 cols_to_keep = [
  'RegionName',
  'Metro',
- 'MunicipalCodeFIPS',
  '2010-01-31',
  '2010-02-28',
  '2010-03-31',

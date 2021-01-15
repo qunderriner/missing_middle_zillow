@@ -20,6 +20,8 @@ ADD PROJECT OVERVIEW
 
 Note: at the moment altair charts are not rendering in github, hopefully this bug will be fixed soon.  
 
+- `viz` contains the 11 charts output from main analysis notebook 
+
 - `aux_data` contains all data and an auxiliary file needed to run the notebook, except four large files noted below (all also noted inline where needed):
 
   - `cols_to_keep.py` - This a python file imported by the notebook that simply contains a long list of dates we want to keep in our analysis. Only seperated out for readability.  
@@ -34,7 +36,7 @@ Note: at the moment altair charts are not rendering in github, hopefully this bu
 
   - `year_county_AMI.csv` - Year/County Pairs 2010-2019 for California mapped to AMI levels https://www.huduser.gov/portal/datasets/il.html#2019 
 
-###### Large data (Not hosted on github):
+##### Large data (Not hosted on github):
 - `County_zhvi_uc_sfrcondo_tier_0.0_0.33_sm_sa_mon.csv`
 - `County_zhvi_uc_sfrcondo_tier_0.67_1.0_sm_sa_mon.csv`
 Data from here https://www.zillow.com/research/data/, using the Home Values section, select ZHVI all home low tier, and high tier, respectivley, tier time series from the drop down menu. 
@@ -47,4 +49,4 @@ HDMA data:
 ### Contact info:
 
 Contact Quinn Underriner with any questions:
-underriner@berkeley.edu 
+underriner@berkeley.edu

@@ -1,18 +1,18 @@
-,MSA_NAME,County_Name
-1,Riverside-San Bernardino-Ontario,Riverside County
-1,Riverside-San Bernardino-Ontario, San Bernardino County
-2,Sacramento--Roseville--Arden-Arcade,El Dorado County
-2,Sacramento--Roseville--Arden-Arcade, Placer County
-2,Sacramento--Roseville--Arden-Arcade, Sacramento County
-2,Sacramento--Roseville--Arden-Arcade, Yolo County
-3,San Jose-Sunnyvale-Santa Clara,Santa Clara County
-3,San Jose-Sunnyvale-Santa Clara, San Benito County
-5,San Diego-Carlsbad,San Diego County
-18,Fresno,Fresno County
-23,Oxnard-Thousand Oaks-Ventura,Ventura County
-24,Anaheim-Santa Ana-Irvine,Orange County
-25,Los Angeles-Long Beach-Glendale,Los Angeles County
-26,Oakland-Hayward-Berkeley,Alameda County
-26,Oakland-Hayward-Berkeley, Contra Costa County
-27,San Francisco-Redwood City-South San Francisco,San Francisco County
-27,San Francisco-Redwood City-South San Francisco, San Mateo County
+,Unnamed: 0,MSA,County Name
+0,1,Riverside-San Bernardino-Ontario,Riverside County
+1,1,Riverside-San Bernardino-Ontario,San Bernardino County
+2,2,Sacramento--Roseville--Arden-Arcade,El Dorado County
+3,2,Sacramento--Roseville--Arden-Arcade,Placer County
+4,2,Sacramento--Roseville--Arden-Arcade,Sacramento County
+5,2,Sacramento--Roseville--Arden-Arcade,Yolo County
+6,3,San Jose-Sunnyvale-Santa Clara,Santa Clara County
+7,3,San Jose-Sunnyvale-Santa Clara,San Benito County
+8,5,San Diego-Carlsbad,San Diego County
+9,18,Fresno,Fresno County
+10,23,Oxnard-Thousand Oaks-Ventura,Ventura County
+11,24,Anaheim-Santa Ana-Irvine,Orange County
+12,25,Los Angeles-Long Beach-Glendale,Los Angeles County
+13,26,Oakland-Hayward-Berkeley,Alameda County
+14,26,Oakland-Hayward-Berkeley,Contra Costa County
+15,27,San Francisco-Redwood City-South San Francisco,San Francisco County
+16,27,San Francisco-Redwood City-South San Francisco,San Mateo County
